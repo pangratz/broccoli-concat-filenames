@@ -8,7 +8,8 @@
   "author": "Clemens Müller",
   "dependencies": {
     "broccoli-writer": "^0.1.1",
-    "broccoli-kitchen-sink-helpers": "^0.2.0"
+    "broccoli-kitchen-sink-helpers": "^0.2.0",
+    "mkdirp": "^0.3.5"
   },
   "keywords": [
     "broccoli-plugin",
