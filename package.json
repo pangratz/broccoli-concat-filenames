@@ -1,7 +1,7 @@
 {
   "name": "broccoli-concat-filenames",
   "description": "Concatenates (transformed) filenames into a file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/pangratz/broccoli-concat-filenames",
